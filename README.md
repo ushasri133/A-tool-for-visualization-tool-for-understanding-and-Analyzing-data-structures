@@ -35,7 +35,7 @@ Core: Object-Oriented Implementation of Data Structures & Algorithms
 
 Clone the repository:
 
-git clone https://github.com/your-username/A-tool-for-visualization-tool-for-understanding-and-Analyzing-data-structures.git
+git clone https://github.com/ushasri133/A-tool-for-visualization-tool-for-understanding-and-Analyzing-data-structures.git
 
 
 Open the project in any Java IDE (IntelliJ / Eclipse / NetBeans).
